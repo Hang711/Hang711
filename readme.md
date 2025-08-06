@@ -1,5 +1,3 @@
-Hi, this is Zhuoheng, nice to meet u in github!
+HI, This is Hang's GitHub Space.
 
-🌱 I'm a developer a work with Java, but fall in love with python.  
-
-🎈 Hello world to github!
+Nice to meet your and hope have some great idea whit you!
